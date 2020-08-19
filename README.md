@@ -1,5 +1,5 @@
 # NET-CAT-GO
-![scrot](https://github.com/EmmanuelCruzL/Net-cat-go/blob/master/bannernet.png)
+![scrot](https://github.com/EmmanuelCruzL/Net-cat-go/blob/master/assets/bannernet.png)
  `                                      
 
 
