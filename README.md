@@ -1,6 +1,6 @@
 # NET-CAT-GO
 
-  /$$   /$$             /$$           /$$$$$$              /$$           /$$$$$$                 
+`  /$$   /$$             /$$           /$$$$$$              /$$           /$$$$$$                 
    | $$$ | $$            | $$          /$$__  $$            | $$          /$$__  $$                
    | $$$$| $$  /$$$$$$  /$$$$$$       | $$  \__/  /$$$$$$  /$$$$$$       | $$  \__/  /$$$$$$       
    | $$ $$ $$ /$$__  $$|_  $$_//$$$$$$| $$       |____  $$|_  $$_//$$$$$$| $$ /$$$$ /$$__  $$      
@@ -10,29 +10,31 @@
     |__/  \__/ \_______/   \___/        \______/  \_______/   \___/        \______/  \______/                                                                                                                                                                            
                              ----[Net-Cat-Go Admin Panel Finder]----
                                        ---[By  Rubickcuv]---
-                                       
+ `                                      
 
 
 ## ¿QUE ES  NET-CAT-GO ?
-    NET-CAT-GO es una  herramienta diseñada para encontrar el admin panel de forma automatizada  utilizando  Python en su version 3.8.4
+
+    `NET-CAT-GO es una  herramienta diseñada para encontrar el admin panel de forma automatizada 
+    utilizando  Python en su version 3.8.4`
     
 
 ## INSTALACIÓN 
 
-      _sudo apt-get update_
+      `sudo apt-get update`
      
      
-      _sudo apt-get upgrade_       
+      `sudo apt-get upgrade`      
      
      
-      _sudo apt-get install python3_
+      `sudo apt-get install python3`
      
      
-      _git clone https://github.com/EmmanuelCruzL/Net-cat-go.git_
+      `git clone https://github.com/EmmanuelCruzL/Net-cat-go.git`
 
 ## USO
      
-      _python3  net-cat-go.py_ 
+      `python3  net-cat-go.py` 
     
            
 
