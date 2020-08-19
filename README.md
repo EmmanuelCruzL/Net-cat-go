@@ -5,8 +5,8 @@
 
 ## ¿QUE ES  NET-CAT-GO ?
 
-    `NET-CAT-GO es una  herramienta diseñada para encontrar el admin panel de forma automatizada 
-    utilizando  Python en su version 3.8.4`
+    NET-CAT-GO es una  herramienta diseñada para encontrar el admin panel de forma automatizada 
+    utilizando  Python en su version 3.8.4
     
 
 ## INSTALACIÓN 
